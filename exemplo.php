@@ -4,7 +4,7 @@ require_once './vendor/autoload.php';
 
 require_once './src/Search.php';
 
-use joao\digitalCep\Search;
+use joaoFerrazfs\digitalCep\Search;
 
 $busca = new Search;
 
